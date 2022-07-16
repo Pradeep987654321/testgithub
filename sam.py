@@ -1,3 +1,3 @@
-a=5
-b=2
-print(a+b)
+a=25
+b=250
+print(a*b)
